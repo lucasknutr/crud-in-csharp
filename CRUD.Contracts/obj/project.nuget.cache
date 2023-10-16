@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BpaBWzSpFpjpwDsrjzB2WB84C/PvhaWRqWp43/Q638Lkz6j0LleHBjzoX77u2H3HwfX7NvRvHFyPFdjdEV67tw==",
+  "success": true,
+  "projectFilePath": "/home/lucasknutr/repos/secondary/CRUD-Delivery/CRUD.Contracts/CRUD.Contracts.csproj",
+  "expectedPackageFiles": [
+    "/home/lucasknutr/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.11/microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
