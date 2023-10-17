@@ -1,0 +1,12 @@
+/home/lucasknutr/repos/secondary/CRUD-Delivery/CRUD.Contracts/bin/Debug/net7.0/CRUD.Contracts.deps.json
+/home/lucasknutr/repos/secondary/CRUD-Delivery/CRUD.Contracts/bin/Debug/net7.0/CRUD.Contracts.dll
+/home/lucasknutr/repos/secondary/CRUD-Delivery/CRUD.Contracts/bin/Debug/net7.0/CRUD.Contracts.pdb
+/home/lucasknutr/repos/secondary/CRUD-Delivery/CRUD.Contracts/obj/Debug/net7.0/CRUD.Contracts.csproj.AssemblyReference.cache
+/home/lucasknutr/repos/secondary/CRUD-Delivery/CRUD.Contracts/obj/Debug/net7.0/CRUD.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucasknutr/repos/secondary/CRUD-Delivery/CRUD.Contracts/obj/Debug/net7.0/CRUD.Contracts.AssemblyInfoInputs.cache
+/home/lucasknutr/repos/secondary/CRUD-Delivery/CRUD.Contracts/obj/Debug/net7.0/CRUD.Contracts.AssemblyInfo.cs
+/home/lucasknutr/repos/secondary/CRUD-Delivery/CRUD.Contracts/obj/Debug/net7.0/CRUD.Contracts.csproj.CoreCompileInputs.cache
+/home/lucasknutr/repos/secondary/CRUD-Delivery/CRUD.Contracts/obj/Debug/net7.0/CRUD.Contracts.dll
+/home/lucasknutr/repos/secondary/CRUD-Delivery/CRUD.Contracts/obj/Debug/net7.0/refint/CRUD.Contracts.dll
+/home/lucasknutr/repos/secondary/CRUD-Delivery/CRUD.Contracts/obj/Debug/net7.0/CRUD.Contracts.pdb
+/home/lucasknutr/repos/secondary/CRUD-Delivery/CRUD.Contracts/obj/Debug/net7.0/ref/CRUD.Contracts.dll

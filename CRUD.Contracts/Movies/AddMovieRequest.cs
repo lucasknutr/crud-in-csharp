@@ -1,6 +1,6 @@
 namespace CRUD.Contracts.Breakfast.AddMovieRequest;
 
-public record CreateMovietRequest(
+public record CreateMovieRequest(
     string Name,
     string Description,
     DateTime StartDateTime,
