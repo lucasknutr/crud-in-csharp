@@ -5,6 +5,6 @@ public record CreateMovieRequest(
     string Description,
     DateTime StartDateTime,
     DateTime EndDateTime,
-    List<string> Savory,
-    List<string> Sweet
+    List<string> Cast,
+    List<string> Episodes
 );
